@@ -7,7 +7,7 @@ Within this repo we've provided you:
  - A db.json file that can be used with JSON server
  - Pre-installed [Bulma](https://bulma.io/) for styling
 
-Use what you've been given to interact with other APIs and render things to the DOM. Feel free to modify _any_ file that you've been given and to add new ones if necessary.
+Use what you've been given to interact with other APIs and render things to the DOM. Feel free to modify _any_ file that you've been given and to add new ones if necessary. (This includes the db.json file!)
 
 Suggestions on features to add:
  * Likes
